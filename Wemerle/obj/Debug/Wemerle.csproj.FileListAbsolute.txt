@@ -1,0 +1,5 @@
+C:\Users\Азамат\Documents\SharpDevelop Projects\Wemerle\Wemerle\bin\Wemerle.dll
+C:\Users\Азамат\Documents\SharpDevelop Projects\Wemerle\Wemerle\bin\Wemerle.pdb
+C:\Users\Азамат\Documents\SharpDevelop Projects\Wemerle\Wemerle\obj\Debug\Wemerle.csprojResolveAssemblyReference.cache
+C:\Users\Азамат\Documents\SharpDevelop Projects\Wemerle\Wemerle\obj\Debug\Wemerle.dll
+C:\Users\Азамат\Documents\SharpDevelop Projects\Wemerle\Wemerle\obj\Debug\Wemerle.pdb
